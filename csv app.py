@@ -12,7 +12,7 @@ with open("test.csv", "r") as file:
             sayi += 1
             Toplampuan += int(puan)
         if yas:
-            sayi2 +=1
+            sayi2 += 1
             Toplamyas += int(yas)
 Ortalamapuan = Toplampuan / sayi
 Ortalamayas = Toplamyas / sayi2
